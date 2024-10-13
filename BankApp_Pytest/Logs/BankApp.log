@@ -170,3 +170,17 @@ r
  2024-10-12 12:07:08,840 : INFO : test_Signup_002  : Taking screenshot  
  2024-10-12 12:07:09,043 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
   
+ 2024-10-13 22:16:16,026 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is started  
+ 2024-10-13 22:16:16,044 : INFO : test_BankApp_Url_001  : Opening browser  
+ 2024-10-13 22:16:16,044 : INFO : test_BankApp_Url_001  : Checking page title  
+ 2024-10-13 22:16:16,052 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is passed  
+ 2024-10-13 22:16:16,052 : INFO : test_BankApp_Url_001  : Taking screenshot  
+ 2024-10-13 22:16:16,226 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-10-13 22:16:16,226 : INFO : test_Signup_002  : Opening browser  
+ 2024-10-13 22:16:16,433 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is completed
+  
+ 2024-10-13 22:16:16,925 : INFO : test_Signup_002  : UserxVUCI9  
+ 2024-10-13 22:16:17,041 : INFO : test_Signup_002  : Entering the Password  
+ 2024-10-13 22:16:17,074 : INFO : test_Signup_002  : UserA1LZBv@gmail.com  
+ 2024-10-13 22:16:17,108 : INFO : test_Signup_002  : 7494582913  
+ 2024-10-13 22:16:17,138 : INFO : test_Signup_002  : Click on Create user button  
