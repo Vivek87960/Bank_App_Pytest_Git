@@ -1,0 +1,7 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:135 The chromedriver version (128.0.6613.137) detected in PATH at D:\Python\Scripts\chromedriver.exe might not be compatible with the detected chrome version (129.0.6668.90); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:30 Testcase test_BankApp_Url_001 is started
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:32 Opening browser
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:33 Checking page title
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:35 Testcase test_BankApp_Url_001 is passed
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:36 Taking screenshot
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:39 Testcase test_BankApp_Url_001 is completed
